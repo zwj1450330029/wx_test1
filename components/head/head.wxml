@@ -1,0 +1,7 @@
+<view class="content">
+  <text>{{title}}</text>
+  <view>
+    <text>{{navTitle}}</text>
+    <text class="more">chakangengduo</text>
+  </view>
+</view>

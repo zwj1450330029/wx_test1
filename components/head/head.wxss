@@ -1,0 +1,14 @@
+/* components/head/head.wxss */
+
+.content{
+  padding: 20rpx;
+}
+.content view{
+  display: flex;
+  justify-content: space-between;
+}
+.content .more{
+  border:1px  solid #ccc;
+  border-radius: 30rpx;
+  padding: 6rpx;
+}

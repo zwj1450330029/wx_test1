@@ -1,0 +1,33 @@
+/* pages/home/home.wxss */
+
+.sciper-box image{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.content-scorll-box{
+  display: flex;
+  height: 100rpx;
+}
+.content-scorll-box .scroll-item{
+  width: 100rpx;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10rpx;
+}
+.content-scorll-box image{
+  width: 100rpx;
+  height: 100rpx;
+}
+.content-scorll-box .scroll-item text{
+
+  /* white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; */
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}

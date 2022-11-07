@@ -1,0 +1,67 @@
+<!--pages/home/home.wxml-->
+<view>
+  <swiper class="sciper-box">
+    <swiper-item>
+      <!-- <image src="/static/imgs/msgIcon.png" alt="" /> -->
+      <image></image>
+    </swiper-item>
+    <swiper-item>
+      <!-- <image src="/static/imgs/speakers.png" alt="" /> -->
+      <image></image>
+    </swiper-item>
+  </swiper>
+
+  <Head title="meirituijian" navTitle="cainixihuan"></Head>
+  <scroll-view class="content-scorll-box" enable-flex scroll-x>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+    <view class="scroll-item">
+      <image src="/static/imgs/msgIcon.png"></image>
+      <text>文字文字文字文字文字文字文字文字</text>
+    </view>
+  </scroll-view>
+  <Head  title="112121" navTitle="222"></Head>
+
+  
+
+
+
+
+
+</view>
